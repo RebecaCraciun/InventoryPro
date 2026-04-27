@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 4500,
+      "quantity": 12
+    },
+    {
+      "name": "Telefon",
+      "price": 3200,
+      "quantity": 25
+    },
+    {
+      "name": "Căști",
+      "price": 150,
+      "quantity": 50
+    },
+    {
+      "name": "Monitor",
+      "price": 850,
+      "quantity": 8
+    },
+    {
+      "name": "Mouse",
+      "price": 75,
+      "quantity": 100
+    },
+    {
+      "name": "Tastatură",
+      "price": 200,
+      "quantity": 35
+    },
+    {
+      "name": "Televizor",
+      "price": 1800,
+      "quantity": 10
+    },
+    {
+      "name": "Tricou",
+      "price": 50,
+      "quantity": 200
+    },
+    {
+      "name": "Blugi",
+      "price": 180,
+      "quantity": 45
+    },
+    {
+      "name": "Pantofi",
+      "price": 250,
+      "quantity": 60
+    },
+    {
+      "name": "Pâine",
+      "price": 5,
+      "quantity": 100
+    },
+    {
+      "name": "Lapte",
+      "price": 8,
+      "quantity": 80
+    },
+    {
+      "name": "Cafea",
+      "price": 25,
+      "quantity": 40
+    },
+    {
+      "name": "Apă",
+      "price": 3.5,
+      "quantity": 300
+    },
+    {
+      "name": "Caiet",
+      "price": 12,
+      "quantity": 150
+    },
+    {
+      "name": "Pix",
+      "price": 2.5,
+      "quantity": 500
+    },
+    {
+      "name": "Ipad",
+      "price": 500,
+      "quantity": 40
+    }
+  ]
+}
