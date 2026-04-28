@@ -1,12 +1,9 @@
-// server.js
-// Contribuție echipă: Server Node.js scris folosind Express.js
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
 
 const app = express();
 const PORT = 3000;
-// Înlocuiește cu asta:
 const FILE_PATH = path.join(__dirname, "produse.json");
 
 app.use(express.json());

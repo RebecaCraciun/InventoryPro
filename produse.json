@@ -84,6 +84,16 @@
       "name": "Ipad",
       "price": 500,
       "quantity": 40
+    },
+    {
+      "name": "Tabletă",
+      "price": 1300,
+      "quantity": 15
+    },
+    {
+      "name": "Cooler",
+      "price": 380,
+      "quantity": 15
     }
   ]
 }
