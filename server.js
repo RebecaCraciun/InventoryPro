@@ -49,5 +49,5 @@ app.post("/api/add", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Serverul rulează fenomenal la adresa http://localhost:${PORT}`);
+  console.log(`Serverul rulează la adresa http://localhost:${PORT}`);
 });
